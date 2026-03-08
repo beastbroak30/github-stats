@@ -136,17 +136,6 @@ These things motivate me to to keep sharing what I build, and they provide
 validation that my work is appreciated! They also help me improve the
 project. Thanks in advance!
 
-If you are insistent on spending money to show your support, I encourage you to
-instead make a generous donation to one of the following organizations. By advocating
-for Internet freedoms, organizations like these help me to feel comfortable
-releasing work publicly on the Web.
-
-- [Electronic Frontier Foundation](https://supporters.eff.org/donate/)
-- [Signal Foundation](https://signal.org/donate/)
-- [Mozilla](https://donate.mozilla.org/en-US/)
-- [The Internet Archive](https://archive.org/donate/index.php)
-
-
 # Related Projects
 
 - Inspired by a desire to improve upon
